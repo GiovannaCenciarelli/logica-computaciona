@@ -2,4 +2,11 @@
 
 ##Porque aprender?
 
-#Ns dias atuais, a inteligência e o controle desses sistemas físicos residem, cada vez mais em camadas imateriais: Os algoritmos e os programas de computador
+Conceitos da programação
+===========================
+LÓGICA 
+
+Valor da frase vai se só V ou F.
+
+Exemplo: De dia um programa mantém uma janela aberta. Verdadeiro - (Céu azul)
+De noite, - Flsa (Céu Preto)
