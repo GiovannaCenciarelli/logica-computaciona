@@ -92,3 +92,23 @@ Tínhamos um problema antes do Cobol.
 # Assembly
 
 Não tão lógico quanto Python.
+
+# GOTO - espaguetti
+
+Programa não linear, manda para vários lugares diferentes
+
+
+INPUT A$
+GOTO 200
+PRINT A$,B
+GOTO 1000
+
+.......
+
+# BUG
+
+Antigamente, pc funcionava como válvula. Tinham luzes, baratas entravam, quando quimavam, dava curto. Por isso BUG.
+
+# A CRISE NA ENG. DE SOFTWARE 
+
+Quando tinha um fluxograma, era um novelo de lã, não sabíam como funcionava. Dijkstra fez uma carta dizendo que GO TO era ruim. Criaram um teorema fundamental, que um programa poderia ser escrito usando apenas três estruturas.
