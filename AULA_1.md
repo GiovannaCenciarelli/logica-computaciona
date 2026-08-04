@@ -42,17 +42,30 @@ Base HEXA -> 90A0B0C0D0E0F
 0,1,2,3,4,5,6,7 (BASE 8)
 
 
-======================================================================================================================================
+=======================================
 QUANDO FALAMOS TABELA VERDADE -> NEGAÇÃO (0 OU 1)
 
 EQUIVALÊNCIAS LÓGICAS -> LEIS DE MORGAN
 
 
-======================================================================================================================================
+=======================================
 Papel do Software -> Controle de sistemas físicos de automação (acender ou apagar uma luz).
 
 Conceito chave: Fazer uma solução lógica com um problema real -> Se sente que está sol, janela abre.
 Se sente que está escuro, janela fecha)
 
-======================================================================================================================================
+=======================================
+
+BLOCO DE INSTRUÇÕES -> BLOCO INSTRUÇÕES -> BLOCO DA SAÍDA
+
+fluxograma linear de blocos
+
+Tínhamos um problema antes do cobbol
+
+
+Assembly -> Não tão logico quanto python
+
+
+
+
 
